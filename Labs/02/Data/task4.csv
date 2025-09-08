@@ -1,0 +1,101 @@
+age,tenure_years,primary_channel,service_rating,nps,monthly_balance,num_products,branch_visits_last_month,app_logins_last_month,complaints_last_year,region,has_credit_card,commercial_ops_amount_last_month
+56,12,website,1,2,21358,5,1,33,3,central,yes,4100
+69,0,branch,5,6,4267,1,0,5,0,east,yes,0
+46,24,call center,4,7,18209,4,2,1,3,west,yes,0
+32,6,branch,3,3,25052,1,4,12,1,central,yes,4100
+60,8,branch,1,1,39513,1,1,42,2,east,N/A,0
+25,23,mobile app,1,9,27092,5,0,42,0,east,no,0
+38,0,call center,4,2,12338,4,5,47,0,north,no,0
+56,11,call center,3,0,1412,4,2,10,1,south,yes,4100
+36,7,mobile app,3,7,8543,4,2,46,2,south,yes,0
+40,23,website,5,2,41355,3,0,22,3,central,yes,0
+28,10,branch,3,9,34496,5,4,15,2,south,no,4100
+28,18,ATM,3,6,24548,4,0,30,1,west,yes,0
+41,16,branch,3,9,28384,3,1,10,1,south,no,0
+53,7,branch,2,4,45425,2,0,15,2,central,no,4100
+57,2,website,5,9,39756,2,2,7,3,south,no,0
+41,2,branch,1,4,19888,3,0,3,3,west,no,0
+20,0,mobile app,4,6,36735,3,4,39,0,north,no,0
+39,4,mobile app,1,8,48295,5,5,3,3,central,no,0
+19,9,call center,5,4,49816,5,3,24,2,north,yes,0
+41,6,ATM,4,0,18506,2,0,2,1,north,yes,N/A
+61,8,branch,5,9,21463,4,4,31,0,north,no,0
+47,6,branch,3,9,18955,2,4,2,0,east,no,4100
+55,8,website,4,0,38841,4,5,26,1,east,yes,0
+19,7,mobile app,3,1,6104,4,2,28,3,north,no,0
+38,11,ATM,1,5,35911,5,4,31,1,central,no,0
+50,1,call center,1,8,24190,1,4,49,3,west,yes,0
+29,0,mobile app,4,7,8357,1,4,18,1,west,no,0
+39,15,call center,4,4,33479,3,4,20,2,south,no,4100
+61,22,website,5,0,45811,5,1,4,3,central,no,0
+42,22,website,5,6,37208,4,1,17,2,east,yes,0
+66,23,branch,3,4,21150,1,2,27,0,N/A,yes,4100
+44,4,ATM,4,5,6644,4,0,41,1,south,yes,0
+59,2,call center,1,6,44286,1,4,21,0,west,no,0
+45,11,mobile app,5,2,48320,1,5,20,0,east,no,4100
+33,7,website,5,9,3914,1,0,5,0,east,yes,0
+32,21,branch,1,2,22352,5,5,0,0,north,no,0
+64,2,branch,5,4,47352,2,0,4,1,west,no,4100
+68,0,call center,3,5,45912,4,2,40,0,central,no,0
+61,2,website,4,8,15397,5,4,11,1,east,no,0
+69,4,ATM,1,4,42555,5,4,25,1,north,no,0
+20,14,website,4,0,47959,5,3,45,2,central,yes,4100
+54,13,call center,5,3,1728,5,5,33,3,west,no,0
+68,2,call center,5,4,1698,5,0,48,3,east,yes,0
+24,0,website,1,9,40954,3,0,13,1,central,no,0
+38,4,call center,3,9,48280,4,1,25,2,central,yes,0
+26,22,website,2,4,14923,5,3,44,1,central,no,0
+56,13,mobile app,1,6,17779,4,1,26,1,east,yes,4100
+35,6,website,2,3,8400,3,1,8,1,east,no,0
+21,8,website,2,0,25466,3,1,25,2,south,yes,0
+42,14,call center,3,4,37939,4,5,46,3,west,no,4100
+31,14,call center,2,6,5360,1,5,21,2,north,yes,0
+67,9,branch,2,9,36270,2,2,46,0,central,no,0
+26,12,branch,3,9,18101,1,2,29,2,south,yes,0
+43,18,mobile app,2,5,33307,1,1,42,2,north,yes,0
+19,6,branch,2,4,6486,1,3,47,2,south,no,0
+37,16,website,2,3,9335,5,0,16,2,east,no,0
+45,19,call center,1,1,22364,3,5,25,3,central,yes,4100
+64,3,branch,1,3,38259,1,3,35,0,north,no,4100
+24,4,branch,1,9,24576,3,4,0,3,north,yes,0
+61,22,mobile app,3,9,32667,4,5,7,3,north,yes,0
+25,6,mobile app,5,2,12130,2,5,48,2,north,yes,0
+64,12,website,2,9,22972,4,2,34,1,north,no,0
+52,14,call center,2,0,41419,4,0,14,1,south,yes,0
+31,10,mobile app,3,7,2167,5,0,46,3,central,yes,0
+34,3,branch,2,4,28192,2,4,21,3,east,no,0
+53,12,call center,1,3,2062,4,4,13,2,east,no,0
+67,6,call center,5,7,19540,4,5,25,3,east,no,0
+57,18,branch,4,6,25244,2,1,27,2,east,no,4100
+21,21,mobile app,2,1,22545,2,2,22,1,south,yes,0
+19,1,branch,1,0,22689,4,2,13,1,west,yes,0
+23,9,call center,4,10,12174,2,5,23,0,central,yes,0
+59,12,ATM,5,3,23925,4,3,1,1,north,yes,0
+21,24,ATM,4,7,38497,4,1,44,3,west,no,0
+46,20,website,1,1,10348,5,5,25,1,east,yes,0
+35,5,branch,4,2,24714,1,1,13,2,west,yes,4100
+43,11,branch,3,0,39102,4,1,6,1,central,no,0
+61,11,website,4,0,9924,3,1,2,0,north,yes,4100
+51,19,website,2,2,38098,1,5,46,1,north,yes,0
+27,10,website,2,10,25394,1,2,22,2,central,yes,0
+53,22,call center,3,4,7801,1,2,45,2,central,yes,0
+31,24,branch,1,2,38614,5,1,42,3,east,yes,0
+48,6,call center,2,0,7731,4,3,46,1,north,yes,4100
+65,0,website,5,0,49136,5,0,44,2,west,no,0
+32,0,branch,2,7,24625,4,5,17,0,south,no,0
+25,24,call center,2,9,18337,5,0,37,3,south,yes,0
+31,24,call center,1,10,36307,5,3,34,0,central,yes,0
+40,19,website,4,1,8056,3,5,14,1,east,no,0
+57,12,branch,2,2,12516,5,1,24,1,south,yes,4100
+38,8,website,3,1,45261,2,2,36,1,north,yes,0
+33,2,branch,4,2,2542,3,0,27,3,central,yes,0
+62,6,ATM,5,6,22677,5,4,9,2,west,no,0
+35,5,mobile app,1,0,47732,1,4,38,3,central,yes,4100
+64,7,mobile app,5,9,40081,2,3,16,0,west,no,4100
+41,8,mobile app,4,7,28569,2,1,38,3,central,yes,0
+43,4,website,4,9,24322,2,0,21,0,central,no,0
+42,0,ATM,4,9,20065,3,1,25,3,central,no,0
+62,18,branch,5,9,18924,5,0,43,2,west,yes,4100
+58,9,call center,4,1,23556,5,3,24,0,west,no,0
+46,11,branch,5,2,27962,1,3,16,1,central,yes,0
+32,23,call center,4,8,29295,1,4,12,1,south,no,0
